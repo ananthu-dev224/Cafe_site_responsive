@@ -1,0 +1,30 @@
+.size{
+    height: 625px;
+}
+.edt{
+    color: #fff;
+}
+.tp{
+    margin-left: 30%;
+    margin-top: 50px;
+}
+@media screen and (max-width:1200px){
+    .home-section{
+        height: 90vh;
+    }
+}
+@media screen and (max-width:799px){
+    .home-section{
+        height: 140vh;
+    }
+}
+@media screen and (max-width:550px){
+    .home-section{
+        height: 110vh;
+    }
+}
+@media screen and (max-width:982px){
+    .icons{
+        margin-left: 25px;
+    }
+}
